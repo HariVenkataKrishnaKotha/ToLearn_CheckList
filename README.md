@@ -3,10 +3,10 @@ This repository serves as the place I plan to master as part of my career roadma
 
 # C# Concurrency:
 
-- [ ] Program vs Process vs Thread
-- [ ] Concurrency vs Parallelism
-- [ ] Cooperative Multitasking vs Preemptive Multitasking
-- [ ] Synchronous vs Asynchronous
+- [x] Program vs Process vs Thread
+- [x] Concurrency vs Parallelism
+- [x] Cooperative Multitasking vs Preemptive Multitasking
+- [x] Synchronous vs Asynchronous
 - [ ] I/O Bound vs CPU Bound
 - [ ] Throughput vs Latency
 - [ ] Critical Sections & Race Conditions
